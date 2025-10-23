@@ -1,15 +1,4 @@
 
-<div align="center">
-
-  <!-- Animated Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ragini%20Pawar%20🌸&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
-</p>
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Engineer+from+Malaysia+%F0%9F%87%B2%F0%9F%87%BE;Full+Stack+Developer+%F0%9F%92%BB;Turning+Coffee+into+Code+%E2%98%95%F0%9F%9A%80" />
-</p>
-<!-- Animated Coding GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding gif"/>
 </p>
@@ -61,21 +50,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
 </p>
-## 🎯 What I'm Up To
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-- 🔭 Currently working on **Full-Stack Web Applications**
-- 🌱 Learning **Cloud Technologies & DevOps**
-- 👯 Open to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web Development, JavaScript, React**
-- 🎯 2024 Goals: **Contribute to more Open Source**
-- ⚡ Fun fact: **I debug with console.log() 😄**
-- 📫 Reach me at: **raginipawar0724@gmail.com**
-
-<br clear="both">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 📫 Connect
 
