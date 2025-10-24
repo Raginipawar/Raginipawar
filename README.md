@@ -1,6 +1,6 @@
 <div align="center">
 🌸 Welcome to Ragini's Digital Universe! 🌸
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6EC7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ragini+Pawar;Software+Engineer+%F0%9F%92%BB;From+india+%F0%9F%87%B2%F0%9F%87%BE;Full+Stack+Developer+%F0%9F%9A%80;Always+Learning+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6EC7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ragini+Pawar;Software+Engineer;Full+Stack+Developer;Always+Learning" alt="Typing SVG" />
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
